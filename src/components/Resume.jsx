@@ -1,5 +1,5 @@
-import Res from '../assets/docs/ariela-israel-1-24.png';
-import ResDoc from '../assets/docs/ariela-israel-1-24.pdf';
+import Res from '../assets/docs/ariela_israel_2_2024.png';
+import ResDoc from '../assets/docs/ariela_israel_2_2024.pdf';
 
 const Resume = () => {
 	return (
