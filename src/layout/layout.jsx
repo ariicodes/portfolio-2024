@@ -78,7 +78,13 @@ const Layout = () => {
 			</main>
 			<footer className='mb-6'>
 				<p>
-					<a href='https://github.com/ariicodes/portfolio_v2'>VIEW THIS REPO</a>{' '}
+					<a
+						href='https://github.com/ariicodes/portfolio_v2'
+						target='_blank'
+						rel='noreferrer'
+					>
+						VIEW THIS REPO
+					</a>{' '}
 					<span className='text-pink-400'>|</span>{' '}
 					<span className='font-light italic'>
 						© Ariela Israel {currentYear}
@@ -86,11 +92,19 @@ const Layout = () => {
 				</p>
 				<p className='font-thin'>
 					Photo by{' '}
-					<a href='https://unsplash.com/@alesnesetril?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>
+					<a
+						href='https://unsplash.com/@alesnesetril?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'
+						target='_blank'
+						rel='noreferrer'
+					>
 						Ales Nesetril
 					</a>{' '}
 					on{' '}
-					<a href='https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'>
+					<a
+						href='https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'
+						target='_blank'
+						rel='noreferrer'
+					>
 						Unsplash
 					</a>
 				</p>
