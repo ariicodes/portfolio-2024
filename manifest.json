@@ -3,12 +3,12 @@
 	"short_name": "ariicodes",
 	"icons": [
 		{
-			"src": "/public/logo-circle.png",
+			"src": "/logo-circle.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "/public/logo-circle.png",
+			"src": "/logo-circle.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
